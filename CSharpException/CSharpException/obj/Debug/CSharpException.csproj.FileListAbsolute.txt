@@ -1,0 +1,6 @@
+c:\visual studio 2013\Projects\CSharpException\CSharpException\bin\Debug\CSharpException.exe.config
+c:\visual studio 2013\Projects\CSharpException\CSharpException\bin\Debug\CSharpException.exe
+c:\visual studio 2013\Projects\CSharpException\CSharpException\bin\Debug\CSharpException.pdb
+c:\visual studio 2013\Projects\CSharpException\CSharpException\obj\Debug\CSharpException.csprojResolveAssemblyReference.cache
+c:\visual studio 2013\Projects\CSharpException\CSharpException\obj\Debug\CSharpException.exe
+c:\visual studio 2013\Projects\CSharpException\CSharpException\obj\Debug\CSharpException.pdb
